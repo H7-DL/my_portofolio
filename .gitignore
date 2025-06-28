@@ -1,0 +1,13 @@
+# Folder cache dan file tidak penting
+__pycache__/
+*.pyc
+
+# File model dan data
+*.pkl
+*.csv
+data/
+models/
+
+# Environment
+.env
+.DS_Store
